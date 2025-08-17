@@ -1,16 +1,5 @@
 # Proje: Türkiye Hava Durumu Analizi
 
-## Klasör Yapısı
-
-```
-Turkey_Weather_Energy_Project/
-├── weather_analysis.ipynb
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## 1️⃣ README.md
 
 ````markdown
@@ -94,7 +83,7 @@ plt.show()
 
 ---
 
-## 3️⃣ requirements.txt
+## 3️⃣ requirements
 
 ```
 pandas
